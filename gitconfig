@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = seungahpyun@icloud.com
+	name = seung ah pyun
